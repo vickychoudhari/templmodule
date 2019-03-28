@@ -1,0 +1,7 @@
+templ.mypage:
+  path: '/templ'
+  defaults: 
+    _controller: '\Drupal\templ\Controller\TemplController::page'
+    _title: 'this is my form module'
+  requirements:
+    _permission: 'access content'

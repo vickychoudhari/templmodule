@@ -1,0 +1,51 @@
+  body  .dialog-off-canvas-main-canvas #page-wrapper #page
+  {
+  	background:#ccccb3;
+  }
+  body  .dialog-off-canvas-main-canvas #page-wrapper #page #main-wrapper{
+  	background:#ccccb3;
+
+  }
+  body  .dialog-off-canvas-main-canvas #page-wrapper #page #main-wrapper #sidebar-first .section{
+  	background: #d9ff66;
+  }
+  body  .dialog-off-canvas-main-canvas #page-wrapper #page #main-wrapper #sidebar-first .section #block-bartik-search{
+
+
+
+  	background: #80bfff;
+  }
+  body  .dialog-off-canvas-main-canvas #page-wrapper #page #main-wrapper #sidebar-first .section #block-bartik-search #search-block-form #edit-keys{
+
+
+
+  	background: #e0993d;
+  }
+/*  }
+   body  .dialog-off-canvas-main-canvas #page-wrapper #page #main-wrapper #sidebar-first .section #block-bartik-search #search-block-form #edit-submit{
+
+
+
+  	background: #80804c;
+  }*/
+
+
+
+body  .dialog-off-canvas-main-canvas #page-wrapper #page #main-wrapper #sidebar-first #block-bartik-tools{
+
+
+
+  	background:  #79ff4d;
+  }
+  
+  
+
+    
+}
+
+ p {
+	font-weight: 500;
+	color:red;
+	display: flex;
+	
+}

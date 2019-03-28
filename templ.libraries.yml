@@ -1,0 +1,5 @@
+template:
+    version: 1.x
+    css:
+        theme:
+            css/templ_style.css: {}

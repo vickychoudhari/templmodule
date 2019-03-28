@@ -1,0 +1,7 @@
+name: Templ
+description: to create a module controller twig
+package: Custom
+type: module
+core: 8.x
+libraries:
+  - templ/template
